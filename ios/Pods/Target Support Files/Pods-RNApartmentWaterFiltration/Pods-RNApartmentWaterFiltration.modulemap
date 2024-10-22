@@ -1,0 +1,6 @@
+framework module Pods_RNApartmentWaterFiltration {
+  umbrella header "Pods-RNApartmentWaterFiltration-umbrella.h"
+
+  export *
+  module * { export * }
+}
